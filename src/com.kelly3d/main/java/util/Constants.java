@@ -1,4 +1,4 @@
-package util;
+package src.com.kelly3d.main.java.util;
 
 public class Constants {
 

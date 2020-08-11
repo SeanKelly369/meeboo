@@ -1,0 +1,17 @@
+
+p
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(´ÿÍŒ
+p
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(´ÿÍŒ
+a
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŠÅ›øÿÿÿÿ
+a
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ø°ÁÒøÿÿÿÿ
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(µ›«…ûÿÿÿÿ
+a
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–„Çşÿÿÿÿ
+a
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(€Å”¾ıÿÿÿÿ
+\
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ç÷¥Ã
