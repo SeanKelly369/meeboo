@@ -1,4 +1,4 @@
-package dal;
+package src.com.kelly3d.main.java.dal;
 
 import entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,7 +11,7 @@ import src.com.kelly3d.main.java.util.Constants;
 import java.util.List;
 
 @Repository
-public class UserDALImpl implements UserDAL{
+public class UserDALImpl implements dal.UserDAL {
 
     @Autowired
     private final MongoTemplate mongoTemplate;

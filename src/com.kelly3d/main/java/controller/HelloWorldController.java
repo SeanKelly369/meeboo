@@ -1,4 +1,4 @@
-package controller;
+package src.com.kelly3d.main.java.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
